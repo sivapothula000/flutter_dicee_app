@@ -16,6 +16,8 @@ A simple, fun Flutter app that rolls a dice randomly each time you press the but
 - Android Studio 
 
 ---
+## App Preview
+<img src="images/preview.gif">
 
 ## 🚀 Getting Started
 
